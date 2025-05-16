@@ -35,6 +35,7 @@ def generate_plan(req: PlanRequest):
 
     filtered_pois = [p for p in POIS if p["category"] in req.interests]
 
+
     itinerary = []
     for i in range(days):
         day_plan = []
