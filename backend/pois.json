@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Kolosseum",
+      "category": "Kultur",
+      "recommended_time": "morning",
+      "duration_hours": 2
+    },
+    {
+      "name": "Forum Romanum",
+      "category": "Kultur",
+      "recommended_time": "afternoon",
+      "duration_hours": 2
+    },
+    {
+      "name": "Trastevere",
+      "category": "Essen",
+      "recommended_time": "evening",
+      "duration_hours": 3
+    },
+    {
+      "name": "Villa Borghese",
+      "category": "Natur",
+      "recommended_time": "afternoon",
+      "duration_hours": 2
+    },
+    {
+      "name": "Vatikanische Museen",
+      "category": "Kultur",
+      "recommended_time": "morning",
+      "duration_hours": 3
+    }
+  ]
+  
